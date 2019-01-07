@@ -1,5 +1,5 @@
 # Ling.Ioc
-- [!img]('https://img.shields.io/badge/netcore-2.1-brightgreen.svg')
+![img]('https://img.shields.io/badge/netcore-2.1-brightgreen.svg')
 ## How to use ?
 ### Demo
 ``` csharp
